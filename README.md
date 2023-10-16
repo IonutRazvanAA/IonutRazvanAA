@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IonutRazvanAA
-- 👀 I’m interested in SAP/UI5/Fiori/Solidity 
-- 🌱 I’m currently learning UI5 and Solidity
+- 👀 I’m interested in SAP/UI5/Fiori/RAP ABAP/SAP BTP
+- 🌱 I’m currently active learning SAP/UI5/Fiori/RAP ABAP/SAP BTP
 - 📫 How to reach me @aanicai.r@gmail.com
 
 <!---
